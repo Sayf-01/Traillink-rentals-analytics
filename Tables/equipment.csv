@@ -1,0 +1,18 @@
+equipment_id,equipment_name,category,daily_rate,stock_quantity
+1,City Bike,Cycling,25,12
+2,Mountain Bike,Cycling,45,8
+3,Road Bike,Cycling,65,5
+4,Kayak,Water Sports,55,6
+5,Paddleboard,Water Sports,40,7
+6,Family Tent,Camping,35,10
+7,Sleeping Bag,Camping,12,20
+8,Camping Stove,Camping,18,9
+9,Climbing Kit,Climbing,30,6
+10,Helmet,Cycling,8,25
+11,Trekking Poles,Hiking,10,15
+12,Expedition Tent,Camping,85,3
+1,City Bike,Cycling,25,12
+13,Broken Rate,Camping,-5,4
+14,Missing Category,,20,5
+15,Zero Stock,Hiking,15,0
+16,Invalid Stock,Hiking,20,-1
